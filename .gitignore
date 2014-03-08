@@ -1,0 +1,6 @@
+
+*.dat
+
+*.7z
+
+curses_test.py
